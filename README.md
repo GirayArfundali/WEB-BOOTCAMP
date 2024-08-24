@@ -1,25 +1,25 @@
-Personal Website
+Kişisel Web Sitesi
 
-I had the opportunity to design and develop a personal website using basic HTML and CSS skills. The main goal of this project was to create a simple yet functional personal website that showcases my skills and acts as a portfolio for my web development journey.
+Bu projede temel HTML ve CSS becerilerimi kullanarak kişisel bir web sitesi tasarladım ve geliştirdim. Projenin amacı, becerilerimi sergileyen ve web geliştirme yolculuğum için bir portföy görevi görecek basit ama işlevsel bir kişisel web sitesi oluşturmaktı.
 
-Project Overview:
+Proje Genel Bakış
+Amaç: Web sitesi, becerilerimi ve projelerimi vurgulamak için kişisel bir portföy olarak tasarlandı. Çalışmalarıma dijital bir giriş sağlar ve başarılarımı ile devam eden projelerimi paylaşmak için bir platform sunar.
 
-Purpose: The website is designed as a personal portfolio to highlight my skills and projects. It serves as a digital introduction to my work and provides a platform to share my achievements and ongoing projects.
+Kullanılan Teknolojiler:
 
-Technologies Used:
+HTML: Web sitesinin içeriğini yapılandırmak için kullanıldı. Giriş, portföy öğeleri ve iletişim bilgileri gibi bölümler oluşturuldu.
+CSS: Web sitesinin görsel olarak çekici ve modern tasarım ilkeleriyle uyumlu olmasını sağlamak için kullanıldı. Duyarlı tasarım öğeleriyle temiz ve profesyonel bir görünüm elde edildi.
+Temel Özellikler:
 
-HTML: I used HTML to structure the content of the website, including creating sections for the login, portfolio items, and contact information.
+Ana Sayfa: Becerilerim ve geçmişim hakkında ilginç bir giriş ve genel bakış içerir.
+Portföy Bölümü: Çeşitli projeleri sergiler ve her biri için kısa açıklamalar sağlar, deneyimimi ve kullanılan teknolojileri vurgular.
+İletişim Sayfası: Potansiyel işbirlikçilerin veya işverenlerin iletişime geçmesini kolaylaştıran bir iletişim formu ve iletişim bilgileri içerir.
+Tasarım ve Düzen: Web sitesinin tasarımı, kullanıcı dostu bir düzen ve sezgisel gezinme ile basitlik ve kullanılabilirliği vurgular. Tutarlı ve profesyonel bir görünüm sağlamak için düzen ayarlamaları, tipografi ve renk şemaları için CSS kullanıldı.
 
+Öğrenme Sonuçları: Bu proje, temel HTML ve CSS becerilerini pratik bir bağlamda uygulama olanağı sağladı ve web geliştirmenin temellerine dair anlayışımı güçlendirdi. Ayrıca kişisel bir marka oluşturma ve çalışmalarımı çevrimiçi olarak etkili bir şekilde sunma konusunda değerli deneyimler kazandırdı.
 
-CSS: CSS was used to style the website, ensuring it was visually appealing and compliant with modern design principles. I focused on creating a clean and professional look with responsive design elements.
+Proje İndirmeleri
+Proje dosyalarına bu bağlantıdan erişebilirsiniz. Lütfen dosyaları indirip incelemekten çekinmeyin.
 
-
-Key Features:Home Page: Contains an interesting introduction and overview of my skills and background.
-Portfolio Section: Showcases various projects and provides brief descriptions of each, highlighting my experience and technologies used.
-Contact Page: Includes a contact form and contact details that make it easy for potential collaborators or employers to get in touch.
-Design and Layout: The design of the website emphasizes simplicity and usability with a user-friendly layout and intuitive navigation. I used CSS for layout adjustments, typography, and color schemes to ensure a cohesive and professional look.
-
-Learning Outcomes: This project allowed me to apply basic HTML and CSS skills in a practical context and strengthened my understanding of the fundamentals of web development. It also provided valuable experience in building a personal brand and effectively presenting my work online.
-
-Overall, developing this personal website was a significant learning experience that provided me with the opportunity to get hands-on practice in web design and showcase my skills in a real-world context.
-
+İletişim
+Herhangi bir soru veya geri bildirim için benimle iletişime geçebilirsiniz: girayarfundal63@gmail.com
