@@ -19,3 +19,11 @@ ZIP File
 You can access the project by extracting the downloaded ZIP file.
 
 Communication For your questions or feedback, you can contact [girayarfundal63@gmail.com].
+
+
+
+![index](https://github.com/user-attachments/assets/87297988-ece9-4a99-9190-aa5e29a35f1a)
+![projects](https://github.com/user-attachments/assets/dab15bc2-3b76-44be-9d7d-dff667b8c018)
+![about](https://github.com/user-attachments/assets/f48b509a-73d1-4957-b53f-be8dfcddabeb)
+![contact](https://github.com/user-attachments/assets/b831b637-ad42-4efb-927b-d04fca5ac730)
+
