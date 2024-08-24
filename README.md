@@ -12,9 +12,9 @@ HTML: I used HTML to structure the content of the website, including creating se
 
 
 CSS: CSS was used to style the website, ensuring it was visually appealing and compliant with modern design principles. I focused on creating a clean and professional look with responsive design elements.
-Key Features:
 
-Home Page: Contains an interesting introduction and overview of my skills and background.
+
+Key Features:Home Page: Contains an interesting introduction and overview of my skills and background.
 Portfolio Section: Showcases various projects and provides brief descriptions of each, highlighting my experience and technologies used.
 Contact Page: Includes a contact form and contact details that make it easy for potential collaborators or employers to get in touch.
 Design and Layout: The design of the website emphasizes simplicity and usability with a user-friendly layout and intuitive navigation. I used CSS for layout adjustments, typography, and color schemes to ensure a cohesive and professional look.
