@@ -7,10 +7,16 @@ Amaç: Web sitesi, becerilerimi ve projelerimi vurgulamak için kişisel bir por
 
 
 
+Click on the "Code" button in the upper right corner.
+Select "Download ZIP" Option:
 
+In the menu that opens, click "Download ZIP".
+Download ZIP File
 
-Proje İndirmeleri
-Proje dosyalarına bu bağlantıdan erişebilirsiniz. Lütfen dosyaları indirip incelemekten çekinmeyin.
+The ZIP file will be automatically downloaded to your computer.
+ZIP File 
+
+You can access the project by extracting the downloaded ZIP file.
 
 İletişim
 Herhangi bir soru veya geri bildirim için benimle iletişime geçebilirsiniz: girayarfundal63@gmail.com
