@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #e8f5e9; /* Açık yeşil arka plan */
+}
+
+nav {
+    background-color: #388e3c; /* Yeşil arka plan */
+    padding: 10px 0;
+    color: #fff;
+}
+
+.skills {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Yatayda ortalar */
+    text-align: center; /* Yazıyı ortalar */
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden; /* clearfix için eklendi */
+}
+
+.logo {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+#nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: right; /* Menü sağa hizalanacak */
+}
+
+.nav-item {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    color: #388e3c; /* Yeşil başlık rengi */
+}
+
+p {
+    text-align: center;
+    color: #333; /* Koyu gri metin rengi */
+    font-size: 18px;
+}
+
+footer {
+    background-color: #388e3c; /* Yeşil arka plan */
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Genel Responsive Ayarlar */
+@media (max-width: 768px) {
+    nav {
+        padding: 10px 5px;
+    }
+
+    #nav-links {
+        float: none;
+        text-align: center;
+        padding: 0;
+    }
+
+    .nav-item {
+        display: block;
+        margin: 10px 0;
+    }
+
+    #logo-box {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .container {
+        width: 95%;
+    }
+
+    header img#profile-image {
+        width: 120px;
+        height: 120px;
+    }
+
+    section#portfolio ul {
+        padding-left: 0;
+        list-style-type: none;
+    }
+
+    section#portfolio li {
+        font-size: 14px;
+    }
+
+    form input, form textarea {
+        width: 100%;
+    }
+
+    footer {
+        padding: 10px 5px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        font-size: 20px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    header img#profile-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    section#portfolio li {
+        font-size: 12px;
+    }
+
+    form button {
+        padding: 8px 16px;
+    }
+}
