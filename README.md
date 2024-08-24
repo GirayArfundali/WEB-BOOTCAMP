@@ -9,6 +9,8 @@ Purpose: The website is designed as a personal portfolio to highlight my skills 
 Technologies Used:
 
 HTML: I used HTML to structure the content of the website, including creating sections for the login, portfolio items, and contact information.
+
+
 CSS: CSS was used to style the website, ensuring it was visually appealing and compliant with modern design principles. I focused on creating a clean and professional look with responsive design elements.
 Key Features:
 
