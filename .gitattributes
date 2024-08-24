@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+* linguist-vendored
+# ShaderLab dosyalarını hariç tut (dil istatistiklerine dahil edilmesin)
+*.ShaderLab linguist-vendored=true
+# C# dosyalarını dil istatistiklerine dahil et
+*.html linguist-vendored=false
+*.css linguist-vendored=false
