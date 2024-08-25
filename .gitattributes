@@ -3,3 +3,4 @@
 *.css linguist-vendored=true
 
 *.html linguist-vendored=false
+/styles/*.css linguist-vendored=true
