@@ -6,6 +6,7 @@ Project Overview
 Purpose: The website was designed as a personal portfolio to highlight my skills and projects. It provides a digital entry into my work and provides a platform to share my achievements and ongoing projects.
 
 
+Setup
 
 Click on the "Code" button in the upper right corner.
 Select "Download ZIP" Option:
