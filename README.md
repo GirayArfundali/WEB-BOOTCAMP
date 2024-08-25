@@ -15,8 +15,9 @@ Communication For your questions or feedback, you can contact [girayarfundal63@g
 
 
 
-![index](https://github.com/user-attachments/assets/5c56df7c-c450-46bd-ba0b-f7f016b843a3)
+![index](https://github.com/user-attachments/assets/8f63394e-675a-4ad3-8099-99f6ce22659a)
 ![projects](https://github.com/user-attachments/assets/083d55d9-010b-4e75-9b38-51c7d1498f47)
 ![Competencies](https://github.com/user-attachments/assets/5bd9063e-0369-4188-8359-14235c3d4f8c)
-![contact](https://github.com/user-attachments/assets/47fc831f-5ab4-49f9-aebe-4885a9defe8c)
+![contact](https://github.com/user-attachments/assets/9fc2d86b-5f33-4a31-96a2-401fb2cfa86b)
+
 
